@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "CucumberSlicer"
   spec.version       = CucumberSlicer::VERSION
   spec.authors       = ["Dan Miller"]
-  spec.email         = ["Daniel.J.Miller@sherwin.com"]
+  spec.email         = ["x.dan.miller@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
