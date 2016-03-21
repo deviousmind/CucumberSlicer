@@ -1,0 +1,12 @@
+<<<<<<< 974c8ec679b6fcb595a3ad18369b0e1c38997d4d
+<component name="DependencyValidationManager">
+  <state>
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </state>
+=======
+<component name="DependencyValidationManager">
+  <state>
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </state>
+>>>>>>> More aggressive tagging.
+</component>

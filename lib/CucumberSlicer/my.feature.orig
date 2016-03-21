@@ -1,0 +1,9 @@
+<<<<<<< 974c8ec679b6fcb595a3ad18369b0e1c38997d4d
+@tag1
+@ci1
+=======
+Feature: testing
+  Scenario: One
+    Given this
+    Then that
+>>>>>>> More aggressive tagging.

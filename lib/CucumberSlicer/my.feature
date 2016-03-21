@@ -1,2 +1,4 @@
-@tag1
-@ci1
+Feature: testing
+  Scenario: One
+    Given this
+    Then that

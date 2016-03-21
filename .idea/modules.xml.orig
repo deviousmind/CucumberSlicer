@@ -1,0 +1,21 @@
+<<<<<<< 974c8ec679b6fcb595a3ad18369b0e1c38997d4d
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CucumberSlicer.iml" filepath="$PROJECT_DIR$/.idea/CucumberSlicer.iml" />
+    </modules>
+  </component>
+</project>
+
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CucumberSlicer.iml" filepath="$PROJECT_DIR$/.idea/CucumberSlicer.iml" />
+    </modules>
+  </component>
+</project>
+
+>>>>>>> More aggressive tagging.
